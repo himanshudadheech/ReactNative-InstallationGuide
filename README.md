@@ -16,8 +16,14 @@ Steps to install react native
 # Install Java JDK above 15 or 18 version
 <img src="https://github.com/himanshudadheech/ReactNative-InstallationGuide/blob/main/4.jpg" />
 # step to install expo 
- ## command 
--  npm install -g expo-cli
--  command
-   expo init learning
+ command :  npm install -g expo-cli
+<br>
+command : expo init app-name
+   <br>
 <img src="https://github.com/himanshudadheech/ReactNative-InstallationGuide/blob/main/2.jpg" />
+<br>
+command : cd app-name
+   <br>
+<br>
+command : expo start
+   <br>
